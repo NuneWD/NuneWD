@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nune.</h1>
-<h1 align="center">I'm Web & Graphic Designer | Frontend Developer | Social Media Manager</h1>
 
 <h3 align="center">🎨 Creative Web & Graphic Designer</h3>
 <h3 align="center">💻 Frontend Developer</h3>
