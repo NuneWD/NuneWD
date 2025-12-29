@@ -1,31 +1,81 @@
-<h1 align="center">Hi 👋, I'm Nune.</h1>
 
-<h3 align="center">🎨 Creative Web & Graphic Designer</h3>
-<h3 align="center">💻 Frontend Developer</h3>
-<h3 align="center">📱 Social Media Manager helping brands grow</h3>
-<h3 align="center">🌱 Always learning new tools & trends</h3>
+## Web & Graphic Designer | Frontend Developer | Social Media Manager
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nunewd&label=Profile%20views&color=0e75b6&style=flat" alt="nunewd" /> </p>
+Creative professional skilled in web design, frontend development, visual graphics, and social media content. Passionate about building clean websites, strong visual identities, and helping brands grow their online presence. 😉
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nune-harutyunyan-web-graphic-designer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nune-harutyunyan-web-graphic-designer" height="30" width="40" /></a>
-</p>
+## 📊 Data & AI Analytics
+🌱 I'm currently learning Data Analytics
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
+👯 Working with data to gain insights and improve decision-making
 
-<!--
-**NuneWD/NuneWD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Database](https://img.shields.io/badge/Database-FF6C37?style=flat)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-green?logo=googleanalytics&logoColor=white)
+![AI](https://img.shields.io/badge/AI-purple?logo=openai&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 Graphic Design Tools
+Strong knowledge of professional design tools for branding, digital graphics, and marketing materials.
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-46A049?style=flat&logo=coreldraw&logoColor=white)
+
+---
+
+## 💻 Frontend Development
+
+Frontend Developer with strong experience in building responsive, user-friendly websites using modern web technologies. Skilled in HTML, CSS, JavaScript, and frontend frameworks, with hands-on experience in WordPress, Bootstrap, and cross-browser compatibility. Focused on clean code, performance, and accessibility.
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Web%20Design-0A66C2?style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+---
+
+## 🔧 Version Control
+Experienced with Git for version control and GitHub for repository management. Skilled in creating branches, managing commits, collaborating on projects, and maintaining clean project histories.
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## ⚡ Advanced Web Development
+- Developing frontend applications with Angular  
+- Building backend solutions using Symfony 3  
+- Following Test Driven Development (TDD) methodology  
+- Designing and implementing RESTful APIs for web services
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
+![TDD](https://img.shields.io/badge/Test%20Driven%20Development-FF6C37?style=flat)
+![REST API](https://img.shields.io/badge/REST%20API-61DAFB?style=flat)
+
+---
+
+## 🛠 Tools & IDEs
+Proficient with development environments and tools including Adobe Dreamweaver, Visual Studio Code, XAMPP Control Panel, and Local. Experienced in setting up local servers, managing projects, and optimizing workflow for web development.
+
+![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF7F00?style=flat&logo=adobe&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FCC624?style=flat)
+![Local](https://img.shields.io/badge/Local-8ED6FF?style=flat)
+
+---
+
+## 📫 Let's Connect
+
+Collaborate, innovate, and build the future together! 💻✨
+
+---
